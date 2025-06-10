@@ -1,4 +1,5 @@
 /*
+	Giovanny Aleman 
 	I am currently trying to learn and improve my C++ coding.
 	In this practice I am going to learn about functions, variables, and user input.
 */
